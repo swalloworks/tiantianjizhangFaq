@@ -32,7 +32,8 @@
 ### 5. 對方打開連結就可以共同記帳了。
 *<span style="color: red; font-weight: bold; ">注意）因為共享連結在Line或者Wechat裡不能直接打開，需要拷貝連結到Safari後打開。</span>*
 
-## ■ 解答疑惑和障排除
+
+## ■ 解答疑惑和故障排除
 
 ### 1. 雲帳本為什麼不用帳號綁定？
 天天記帳的雲帳本綁定的使用者手機的iCloud帳號(Apple ID),
