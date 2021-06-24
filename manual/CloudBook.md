@@ -43,19 +43,19 @@
 #### 手動同步方法如下
 
 #### 手動同步方法1  
-在行事曆介面，下拉獲取雲端當前帳本的雲端最新更動。
+在行事曆介面，下拉獲取雲端當前帳本的雲端最新更動。  
 <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook6.PNG" alt="list" width="330"/>
 
 #### 手動同步方法2  
-在帳本清單介面，點左上同步按鈕，獲取全部帳本的雲端最新更動。
+在帳本清單介面，點左上同步按鈕，獲取全部帳本的雲端最新更動。  
 <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook7.PNG" alt="list" width="330"/>
 
 #### 手動同步方法3 
-在帳本清單介面，長按左上同步按鈕，重新同步全部雲端記錄。
+在帳本清單介面，長按左上同步按鈕，重新同步全部雲端記錄。  
 
 
-### 3. 如何確認本機是否有未被上傳到雲端的記錄？
-從行事曆介面，可以打開【本機未同步記錄】清單，
-如果有未被上傳記錄，點右上角【同步】按鈕 就可以上傳記錄。
+### 3. 如何確認本機是否有未被上傳到雲端的記錄？  
+從行事曆介面，可以打開【本機未同步記錄】清單，  
+如果有未被上傳記錄，點右上角【同步】按鈕 就可以上傳記錄。  
 <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook8.PNG" alt="list" width="330"/>
 
