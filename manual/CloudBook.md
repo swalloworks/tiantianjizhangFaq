@@ -56,5 +56,5 @@
 ### 3. 如何確認本機是否有未被上傳到雲端的記錄？  
 從行事曆介面，可以打開【本機未同步記錄】清單，  
 如果有未被上傳記錄，點右上角【同步】按鈕 就可以上傳記錄。  
-<img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook8.PNG" alt="list" width="330"/>
+<img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook8.PNG" alt="list" width="330"/>  
 
