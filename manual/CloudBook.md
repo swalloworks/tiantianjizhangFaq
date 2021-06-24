@@ -40,8 +40,6 @@
 
 ### 2. 記錄什麼時候會被同步到，如果沒有同步到該怎麼辦？
 記錄同步是基本上是即時(realtime)的, 但如果App長期沒有開啟或者處於後台的情況下，會出現同步延遲。這樣的時候，可以手動同步。  
-#### 手動同步方法如下
-
 #### 手動同步方法1  
 在行事曆介面，下拉獲取雲端當前帳本的雲端最新更動。  
 <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook6.PNG" alt="list" width="330"/>
