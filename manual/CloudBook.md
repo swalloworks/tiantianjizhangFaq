@@ -22,7 +22,7 @@
 <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook4.PNG" alt="list" width="330"/>
 
 
-3. **點寫對方 電子郵件或者電話號碼**  
+3. **輸入對方 電子郵件或者電話號碼**  
 <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook5.PNG" alt="list" width="330"/>
 
 
@@ -39,17 +39,17 @@ A: 天天記帳的雲帳本綁定的使用者手機的iCloud帳號(Apple ID),
 所以不需要另行綁定其他帳號。
 
 2. Q: **記錄什麼時候會被同步到，如果沒有同步到該怎麼辦？**  
-A: 記錄同步是基本上是即時(realtime)的, 但如果App長期沒有開啟或者處於後台的情況下，會出現同步延遲。這樣的時候，可以手動同步。  
+A: 同步基本上是即時(realtime)的, 但如果App長期沒有開啟或者處於後台的情況下，會出現同步延遲。這樣的時候，可以手動同步。  
     2.1 **手動同步方法1**    
-    在行事曆介面，下拉獲取雲端當前帳本的雲端最新更動。  
+    在行事曆介面，可下拉獲取當前帳本的雲端最新更動。  
     <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook6.PNG" alt="list" width="330"/>
 
     2.2 **手動同步方法2**    
-    在帳本清單介面，點左上同步按鈕，獲取全部帳本的雲端最新更動。  
+    在帳本清單介面，點左上同步按鈕，可獲取全部帳本的雲端最新更動。  
     <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/tw-cloudbook7.PNG" alt="list" width="330"/>
 
     2.3 **手動同步方法3**   
-    在帳本清單介面，長按左上同步按鈕，重新同步全部雲端記錄。  
+    在帳本清單介面，長按左上同步按鈕，會重新同步全部雲端記錄。  
 
 
 3. Q: **如何確認本機是否有未被上傳到雲端的記錄？**    
